@@ -1,0 +1,27 @@
+.banner {
+  background-image: url("https://i.ibb.co/6gWxh1m/IMG02939-2.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.061), rgba(0, 0, 0, 0.123));
+  height: 680px;
+  width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: #94cc07;
+  font-weight: bold;
+  font-size: 55px;
+
+}
+.about-btn {
+  background-color: #94cc07;
+	font-size: 17px;
+  outline: none;
+  border: none;
+  padding: 15px 30px;
+  color: white;
+	border-radius: 10px;
+
+}
