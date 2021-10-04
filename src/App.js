@@ -19,12 +19,8 @@ function App() {
 
 				<Banner></Banner>
 				<Switch>
-
 					<Route exact path="/home">
 						<Home></Home>
-						<Route exact path="/">
-							<Home></Home>
-						</Route>
 					</Route>
 					<Route exact path="/services">
 						<Services></Services>
@@ -35,11 +31,12 @@ function App() {
 					<Route exact path="/photoGallery">
 						<PhotoGallery></PhotoGallery>
 					</Route>
-					<Route exact path="*">
+					<Route exact path="/">
+						<Home></Home>
+					</Route>
+					<Route path="*">
 						<Error></Error>
 					</Route>
-
-
 				</Switch>
 
 				<Footer></Footer>
