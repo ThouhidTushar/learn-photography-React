@@ -4,7 +4,7 @@
 		"role": "Cinematographer",
 		"age": 21,
 		"country": "France",
-		"salary": 3600,
+		"expertice": "Asthatics and Framing",
 		"img": "https://images.unsplash.com/photo-1523824921871-d6f1a15151f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
 	},
 	{
@@ -12,7 +12,7 @@
 		"role": "Cinematographer",
 		"age": 25,
 		"country": "UK",
-		"salary": 2000,
+		"expertice": "Art and Wedding",
 		"img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
 	},
 	{
@@ -20,7 +20,7 @@
 		"role": "Cinematographer",
 		"age": 21,
 		"country": "USA",
-		"salary": 1000,
+		"expertice": "Landscape and Wedding",
 		"img": "https://images.unsplash.com/photo-1539614474468-f423a2d2270c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
 	},
 	{
@@ -28,7 +28,7 @@
 		"role": "Photographer",
 		"age": 22,
 		"country": "UK",
-		"salary": 4000,
+		"expertice": "Wedding Metro",
 		"img": "https://images.unsplash.com/photo-1594185230805-68f37369b450?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=702&q=80"
 	},
 	{
@@ -36,7 +36,7 @@
 		"role": "Art Director",
 		"age": 55,
 		"country": "Spain",
-		"salary": 2500,
+		"expertice": "Mountain Wedding",
 		"img": "https://images.unsplash.com/photo-1536896407451-6e3dd976edd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
 	},
 	{
@@ -44,7 +44,7 @@
 		"role": "Photographer",
 		"age": 29,
 		"country": "UK",
-		"salary": 1000,
+		"expertice": "Urban wedding",
 		"img": "https://images.unsplash.com/photo-1596813362035-3edcff0c2487?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80"
 	},
 	{
@@ -52,7 +52,7 @@
 		"role": "Photographer",
 		"age": 22,
 		"country": "UK",
-		"salary": 3600,
+		"expertice": "Asthatics and Framing",
 		"img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80"
 	},
 	{
@@ -60,7 +60,7 @@
 		"role": "Photographer",
 		"age": 25,
 		"country": "UK",
-		"salary": 1000,
+		"expertice": "Urban Wedding",
 		"img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
 	},
 	{
@@ -68,7 +68,7 @@
 		"role": "Photographer",
 		"age": 23,
 		"country": "UK",
-		"salary": 1500,
+		"expertice": "Asthatics and Framing",
 		"img": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
 	}
 ]

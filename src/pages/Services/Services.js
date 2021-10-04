@@ -27,7 +27,7 @@ const Services = () => {
 								<h4>Name : {service.name}</h4>
 								<h6>Age: {service.age}</h6>
 								<h6>Role: {service.role}</h6>
-								<h6>Salary: ${service.salary}</h6>
+								<h6>Expertice: {service.expertice}</h6>
 
 							</div>
 						</div>

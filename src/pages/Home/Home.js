@@ -29,7 +29,7 @@ const Home = () => {
 							<h4>Name : {teacher.name}</h4>
 							<h6>Age: {teacher.age}</h6>
 							<h6>Role: {teacher.role}</h6>
-							<h6>Salary: ${teacher.salary}</h6>
+							<h6>Expertice: {teacher.expertice}</h6>
 
 						</div>
 					</div>
